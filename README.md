@@ -1,4 +1,4 @@
-# labS
+# LABs
 
 ## 084_RealizandoDeployNuvemConjuntoAPIsdesenvolvidaSpringBoot
 
